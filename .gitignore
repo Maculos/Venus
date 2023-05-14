@@ -1,11 +1,3 @@
-Midnight/.pio
-Midnight/.vscode/.browse.c_cpp.db*
-Midnight/.vscode/c_cpp_properties.json
-Midnight/.vscode/launch.json
-Midnight/.vscode/ipch
-Midnight/build
-Midnight/test
-
 # Prerequisites
 *.d
 
